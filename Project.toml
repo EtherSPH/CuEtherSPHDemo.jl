@@ -1,0 +1,13 @@
+name = "CuEtherSPHDemo"
+uuid = "2a9f7779-ccff-4333-b3ec-84e48fb8770e"
+authors = ["bcynuaa <bcynuaa@163.com>"]
+version = "0.1.0"
+
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+ExportAll = "ad2082ca-a69e-11e9-38fa-e96309a31fe4"
+JuliaFormatter = "98e50ef6-434e-11e9-1051-2b60c6c9e899"
+ProgressBars = "49802e3a-d2f1-5c88-81d8-b72133a6f568"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+WriteVTK = "64499a7a-5c06-52f2-abe2-ccb03c286192"

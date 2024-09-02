@@ -1,0 +1,4 @@
+draft/*
+*.vtp
+.VSCodeCounter/*
+*.ipynb
